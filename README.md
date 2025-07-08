@@ -150,6 +150,8 @@ src/
 
 ## Screenshots
 
+![Toyota Prius 2010 Infotainment System](screenshot1.JPG)
+
 The system features a modern dark theme with cyan accents, designed specifically for automotive use:
 
 - **Dashboard**: Central hub with real-time vehicle data
