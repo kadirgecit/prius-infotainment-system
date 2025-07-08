@@ -1,5 +1,7 @@
 # Toyota Prius 2010 Hybrid Infotainment System
 
+![Toyota Prius 2010 Infotainment System](screenshot1.JPG)
+
 A modern, React-based infotainment system designed specifically for the Toyota Prius 2010 hybrid vehicle. This system provides a comprehensive dashboard with multiple screens for vehicle management, entertainment, and navigation.
 
 ## Features
@@ -149,8 +151,6 @@ src/
 - About information
 
 ## Screenshots
-
-![Toyota Prius 2010 Infotainment System](screenshot1.JPG)
 
 The system features a modern dark theme with cyan accents, designed specifically for automotive use:
 
